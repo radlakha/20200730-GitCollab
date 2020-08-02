@@ -13,7 +13,11 @@ This is a scratch pad to help teach/learn Git (modified)
 - pull/push
   - `push origin <branch>`
   PR (pull request)
-  `git fetch --prune`
+  `git fetch --prune` : clean your git history and removes refrences from remote
+
   `git branch -d <branch>`
 
   `git log --online --graph --decorate --all`
+    - you can look up how to set this as a git alias
+
+git switch -c <branch_name>
