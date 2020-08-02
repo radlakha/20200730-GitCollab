@@ -9,3 +9,11 @@ This is a scratch pad to help teach/learn Git (modified)
 - Branches
   - 'git branch <branch_name>' creates a new branch where HEAD is
   - 'git switch <branch name>' move to branch_name
+
+- pull/push
+  - `push origin <branch>`
+  PR (pull request)
+  `git fetch --prune`
+  `git branch -d <branch>`
+
+  `git log --online --graph --decorate --all`
