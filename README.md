@@ -1,4 +1,4 @@
-# 20200730-GitCollab
+# 20200730-GitCollab This is in response from a second client (oh one more change!)
 This is a scratch pad to help teach/learn Git (modified)
 
 - `git clone <url>` : downloads the repository from the web to your local computer
