@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # 20200730-GitCollab This is in response from a second client (oh one more change!)
-=======
-# 20200730-GitCollab - Let this address a request from one customer
->>>>>>> This addresses a request from one customer
 This is a scratch pad to help teach/learn Git (modified)
 
 - `git clone <url>` : downloads the repository from the web to your local computer
