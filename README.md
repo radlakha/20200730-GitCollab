@@ -1,3 +1,4 @@
+# 20200730-GitCollab - Let this address a request from one customer
 # 20200730-GitCollab This is in response from a second client (oh one more change!)
 This is a scratch pad to help teach/learn Git (modified)
 
@@ -21,3 +22,5 @@ This is a scratch pad to help teach/learn Git (modified)
     - you can look up how to set this as a git alias
 
 git switch -c <branch_name>
+# This is a harmless change to check effectiveness of
+# rebase command
