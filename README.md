@@ -25,5 +25,3 @@ This is a scratch pad to help teach/learn Git (modified)
     - you can look up how to set this as a git alias
 
 git switch -c <branch_name>
-# this is a harmless change (does not cause conflict) which
-# should be easily handles using git rebase command
